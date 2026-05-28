@@ -5,7 +5,9 @@ The Student Registration Portal is a responsive web application built using HTML
 It allows students to register through a multi-step form with validations, progress tracking, and user-friendly UI features.
 
 🚀 Features
+
 🧾 Multi-step registration form
+
 📊 Progress bar for step tracking
 📧 Email validation
 📱 Mobile number validation
